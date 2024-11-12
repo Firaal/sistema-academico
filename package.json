@@ -1,0 +1,18 @@
+{
+  "name": "me-testes",
+  "version": "1.0.0",
+  "main": "lancamentoNotas",
+  "directories": {
+    "test": "jest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
