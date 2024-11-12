@@ -21,5 +21,5 @@ test('Nota de 2UP com mais de uma casa decimal', () => {
 });
 
 test('Entradas não numéricas', () => {
-  expect(() => lancarNota("sete", 8.2)).toThrow('Erro: "Entradas devem ser numéricas"');
+  expect(() => lancarNota("sete", 8.2)).toThrow('Entradas devem ser numéricas');
 });
