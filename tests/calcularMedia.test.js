@@ -21,5 +21,5 @@ test('Nota de 2UP no limite superior', () => {
 });
 
 test('Notas inválidas (fora do intervalo)', () => {
-  expect(() => calcularMedia(-1.0, 11.0)).toThrow("Entradas devem ser numéricas")
+  expect(() => calcularMedia(-1.0, 11.0)).toThrow('Entradas devem ser numéricas')
 });
