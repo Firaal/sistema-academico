@@ -1,4 +1,4 @@
-const lancarNota = require('../lancamentoNotas');
+const lancarNota = require('../src/lancamentoNotas');
 
 test('Notas válidas devem ser salvas com sucesso', () => {
   expect(lancarNota(7.5, 8.2)).toEqual({ nota1: 7.5, nota2: 8.2 });
