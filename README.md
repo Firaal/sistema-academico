@@ -33,11 +33,6 @@ Aplicar práticas ágeis de desenvolvimento e simular um ambiente de trabalho co
 No terminal Git Bash, clone o repositório:
 
 ```bash
-git clone https://github.com/italo1101/sistema_academico_ME.git
-
-Como Executar os Testes no Vs Code
-No terminal Git Bash clone o repositório:
-
 git clone https://github.com/Firaal/sistema-academico.git
 Instale as dependências: Certifique-se de ter o Node.js e npm instalados e execute:
 
